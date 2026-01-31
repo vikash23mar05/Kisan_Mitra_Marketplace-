@@ -20,6 +20,7 @@ export const translations = {
     navFarmerDash: "Farmer Dashboard",
     navBuyerDash: "Buyer Dashboard",
     navHelp: "Help & Support",
+    navEAuction: "E-Auction",
 
     // Home
     officialPortal: "Official Portal for Agricultural Marketing",
@@ -136,6 +137,19 @@ export const translations = {
     bankAccount: "Linked Bank Account",
     confirmSale: "Schedule Sale",
     slotDate: "Preferred Slot Date",
+
+    // E-Auction
+    liveAuctions: "Live Auctions",
+    liveAuctionsDesc: "Participate in real-time bidding for bulk commodities.",
+    lotId: "Lot ID",
+    basePrice: "Base Price",
+    currentBid: "Current Bid",
+    timeLeft: "Time Left",
+    bidNow: "Bid Now",
+    placeBid: "Place Bid",
+    yourBid: "Your Bid",
+    confirmBid: "Confirm Bid",
+    bidSuccess: "Bid placed successfully!",
     
     // Saved
     shortlistedCrops: "Shortlisted Crops",
@@ -205,6 +219,7 @@ export const translations = {
     navFarmerDash: "किसान डैशबोर्ड",
     navBuyerDash: "खरीदार डैशबोर्ड",
     navHelp: "सहायता और समर्थन",
+    navEAuction: "ई-नीलामी",
 
     // Home
     officialPortal: "कृषि विपणन के लिए आधिकारिक पोर्टल",
@@ -321,6 +336,19 @@ export const translations = {
     bankAccount: "लिंक किया गया बैंक खाता",
     confirmSale: "बिक्री अनुसूची",
     slotDate: "पसंदीदा स्लॉट तिथि",
+    
+    // E-Auction
+    liveAuctions: "लाइव नीलामी",
+    liveAuctionsDesc: "थोक वस्तुओं के लिए वास्तविक समय की बोली में भाग लें।",
+    lotId: "लॉट आईडी",
+    basePrice: "आधार मूल्य",
+    currentBid: "वर्तमान बोली",
+    timeLeft: "समय शेष",
+    bidNow: "अभी बोली लगाएं",
+    placeBid: "बोली लगाएं",
+    yourBid: "आपकी बोली",
+    confirmBid: "बोली की पुष्टि करें",
+    bidSuccess: "बोली सफलतापूर्वक लगाई गई!",
 
     // Saved
     shortlistedCrops: "शॉर्टलिस्ट की गई फसलें",

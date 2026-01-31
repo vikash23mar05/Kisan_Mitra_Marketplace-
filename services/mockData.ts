@@ -12,7 +12,7 @@ export const MOCK_LISTINGS: Listing[] = [
     harvestDate: '2023-04-10',
     sellerName: 'Ramesh Kumar',
     description: 'High quality Sharbati wheat, golden grain. Naturally grown.',
-    imageUrl: 'https://picsum.photos/400/300?random=1',
+    imageUrl: 'https://images.unsplash.com/photo-1501430654243-c934cec2e1c0?auto=format&fit=crop&q=80&w=400',
     isVerified: true,
   },
   {
@@ -26,7 +26,7 @@ export const MOCK_LISTINGS: Listing[] = [
     harvestDate: '2023-10-15',
     sellerName: 'Gurdeep Singh',
     description: 'Premium aged Basmati rice. Long grain.',
-    imageUrl: 'https://picsum.photos/400/300?random=2',
+    imageUrl: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&q=80&w=400',
     isVerified: true,
   },
   {
@@ -40,7 +40,7 @@ export const MOCK_LISTINGS: Listing[] = [
     harvestDate: '2023-03-20',
     sellerName: 'Sunita Devi',
     description: 'Oil content above 40%. Cleaned and graded.',
-    imageUrl: 'https://picsum.photos/400/300?random=3',
+    imageUrl: 'https://images.unsplash.com/photo-1589574889758-00f7457d341b?auto=format&fit=crop&q=80&w=400',
     isVerified: false,
   },
   {
@@ -54,7 +54,7 @@ export const MOCK_LISTINGS: Listing[] = [
     harvestDate: '2023-12-01',
     sellerName: 'Vijay Patil',
     description: 'Fresh farm picked tomatoes.',
-    imageUrl: 'https://picsum.photos/400/300?random=4',
+    imageUrl: 'https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&q=80&w=400',
     isVerified: true,
   },
   {
@@ -68,7 +68,7 @@ export const MOCK_LISTINGS: Listing[] = [
     harvestDate: '2023-11-05',
     sellerName: 'Arjun Bhai',
     description: 'High quality cotton bales available.',
-    imageUrl: 'https://picsum.photos/400/300?random=5',
+    imageUrl: 'https://images.unsplash.com/photo-1594294026360-1e544490f238?auto=format&fit=crop&q=80&w=400',
     isVerified: true,
   },
 ];

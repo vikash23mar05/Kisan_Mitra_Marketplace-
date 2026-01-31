@@ -34,7 +34,7 @@ export const Home: React.FC = () => {
           <div className="md:w-1/3 mt-8 md:mt-0 flex justify-center">
              <div className="w-full max-w-sm bg-[#F2F2F2] border border-[#D6D6D6] p-4 rounded text-center">
                <img 
-                 src="https://picsum.photos/400/300?grayscale" 
+                 src="https://images.unsplash.com/photo-1627915570808-8d2661d9a5b3?auto=format&fit=crop&q=80&w=400" 
                  alt="Indian Farmer" 
                  className="w-full h-auto mb-4 border border-[#D6D6D6]"
                />
